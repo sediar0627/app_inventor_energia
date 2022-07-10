@@ -1,0 +1,11 @@
+Energía,conceptos/energia.txt,sin_imagen
+Fuentes de energía,conceptos/fuentes_de_energia.txt,sin_imagen
+Energía solar,conceptos/energia_solar.txt,imagenes/img_concepto_solar.txt
+Energía eólica,conceptos/energia_eolica.txt,imagenes/img_concepto_eolica.txt
+Energía hidráulica,conceptos/energia_hidraulica.txt,imagenes/img_concepto_hidraulica.txt
+Energía del mar,conceptos/energia_maritima.txt,imagenes/img_concepto_maritima.txt
+Energía geotérmica,conceptos/energia_geotermica.txt,imagenes/img_concepto_geotermica.txt
+Energía de biomasa o bioenergía,conceptos/bioenergia.txt,imagenes/img_concepto_bionergia.txt
+Energías no renovables,conceptos/energia_no_renovable.txt,sin_imagen
+Energía fósil,conceptos/energia_fosil.txt,imagenes/img_concepto_fosil.txt
+Energía nuclear,conceptos/energia_nuclear.txt,imagenes/img_concepto_nuclear.txt

@@ -1,0 +1,7 @@
+El término energía (fuerza de acción o fuerza de trabajo) tiene diversas acepciones y definiciones, relacionadas con la idea de una capacidad para obrar, surgir, transformar o poner en movimiento.
+
+En física (específicamente en mecánica), energía se define como la capacidad para realizar un trabajo.1 En tecnología y economía, «energía» se refiere a un recurso natural (incluyendo a su tecnología asociada para poder extraerla, transformarla y darle un uso industrial o económico).
+
+Para que se incluya, también a la termodinámica, podemos decir, que la energía es la capacidad de los cuerpos para realizar transformaciones (mediante trabajo o mediante calor) en ellos mismos o en otros cuerpos. Es decir, el concepto de energía se define como la capacidad de hacer funcionar las cosas. De todos modos, en la definición no abarca la noción de energía que tiene una onda electromagnética, por ejemplo.
+
+La masa y la energía están estrechamente relacionadas. Debido a la equivalencia masa-energía, cualquier objeto que tenga masa cuando está inmóvil (llamada masa en reposo) también tiene una cantidad equivalente de energía cuya forma se llama energía en reposo, y cualquier energía adicional (de cualquier forma) adquirida por el objeto por encima de esa energía en reposo aumentará la masa total del objeto al igual que aumenta su energía total. Por ejemplo, después de calentar un objeto, su aumento de energía podría medirse como un pequeño aumento de la masa, con una balanza suficientemente sensible.

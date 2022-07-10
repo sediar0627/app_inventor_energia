@@ -1,0 +1,14 @@
+Los residuos orgánicos o cosechas se utilizan en el siguiente tipo de energía,4,A. Eólica,B. Solar,C. Fósil,D. Biomasa,sin_imagen
+Relaciona el termino con la imagen,4,A. Energia solar,B. Energia eolica,C. Energia fosil,D. Energia hidraulica,imagenes/img_preguntas_hidraulica.txt
+El tipo de energía que no genera un impacto ambiental negativo,4,A. No renovables,B. Nuclear,C. Fósil,D. Geotérmica,sin_imagen
+La energía eólica es considerada,1,A. Energía limpia y renovable,B. Energía limpia y no renovable,C. Energía contaminante y renovable,D. Energía contaminante y no renovable,sin_imagen
+Relaciona el termino con la imagen,1,A. Energia solar,B. Energia eolica,C. Energia nuclear,D. Energia hidraulica,imagenes/img_preguntas_eolica.txt
+Término utilizado para referirse a la energía,2,A. Cambiar, B.Transformar,C. Moldear,D. Usar,sin_imagen
+Relaciona el termino con la imagen,2,A. Energia eolica,B. Energia nuclear,C. Energia fosil,D. Energia hidraulica,imagenes/img_preguntas_nuclear.txt
+De las siguientes energías cual es contaminante,4,A. Eólica,B. Solar,C. Hidráulica,D. Nuclear,sin_imagen
+Relaciona el termino con la imagen,3,A. Energia eolica,B. Energia fosil,C. Energia solar,D. Energia hidraulica,imagenes/img_preguntas_solar.txt
+El concepto de energía no renovable se refiere,1,A. Se encuentran de forma limitada,B. Se encuentran de forma ilimitada,C. Se regeneran con el tiempo,D. Se regeneran automáticamente,sin_imagen
+El agua es una fuente para proveer,1,A. Energía hidráulica,B. Energía nuclear,C. Energía térmica,D. Energía eólica,sin_imagen
+A partir del petróleo se puede obtener energía,2,A. Nuclear,B. Fósil,C. Biomasa,D. Geotérmica,sin_imagen
+El ciclo hidrológico o movimiento del agua se utiliza desde el tipo de energía,4,A. Eléctrica,B. Solar,C. Acuática,D. Hidráulica,sin_imagen
+Relaciona el termino con la imagen,4,A. Energia solar,B. Energia eolica,C. Energia nuclear,D. Energia fosil,imagenes/img_preguntas_fosil.txt
