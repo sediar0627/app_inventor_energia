@@ -2,7 +2,7 @@
 
 ## Descripcion
 
-Aplicacion hecha en App Inventor cuyo proposito tiene explicar todo lo relacionado a energia y sus tipos. Implementando una ventana donde se definen los conceptos de los, otra donde se evalua lo aprendido y una de anexos multimedia.
+Aplicacion hecha en App Inventor cuyo proposito tiene explicar todo lo relacionado a energia y sus tipos. Implementando una ventana donde se definen los conceptos de los mismos, otra donde se evalua lo aprendido y una de anexos multimedia.
 
 ## Aspectos Tecnicos
 
