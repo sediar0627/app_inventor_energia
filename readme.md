@@ -99,3 +99,7 @@ Se debe crear el archivo de texto en la carpeta 'conceptos', con el nombre que c
 ### Recomendacion para el nombre de los archivos de texto:
 - Guardelos con un nombre nemo tecnico, y sin caracteres especiales.
 - El unico caracter especial que esta bien usar es '_'
+
+## Importante:
+
+Se deben de configurar todos los conceptos, con las preguntas antes de arrancar la aplicacion, para evitar errores.
